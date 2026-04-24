@@ -8,38 +8,6 @@ A complete, copy-paste-ready Machine Learning, Data Analytics and Visualization 
 > - [SEO Sample Data (Kaggle)](https://www.kaggle.com/datasets/muhammetvarl/seo-sample-data)
 > - [Google Trends Dataset (Kaggle)](https://www.kaggle.com/datasets/dhruvildave/google-trends-dataset)
 
-## What's inside
-
-| File | Purpose |
-|------|---------|
-| `keyword_research.ipynb` | Jupyter notebook — best for Google Colab |
-| `keyword_research.py`    | Plain Python script — best for VS Code |
-| `seo_sample.csv`         | Sample SEO keyword dataset |
-| `trends.csv`             | Sample Google Trends weekly data |
-| `requirements.txt`       | Pip install list |
-| `README.md`              | This file |
-
-## Run on Google Colab (easiest, no install)
-
-1. Open <https://colab.research.google.com> → **File → Upload notebook**
-2. Upload `keyword_research.ipynb`
-3. (Optional) **Files** panel → upload `seo_sample.csv` and `trends.csv`
-4. **Runtime → Run all**
-
-## Run locally in VS Code
-
-```bash
-git clone https://github.com/<your-username>/keyword-research-python.git
-cd keyword-research-python
-
-python -m venv .venv
-source .venv/bin/activate          # on Windows: .venv\Scripts\activate
-
-pip install -r requirements.txt
-python keyword_research.py
-```
-
-All charts and an enriched CSV will be written to `./outputs/`.
 
 ## Project workflow
 
@@ -66,16 +34,7 @@ Google Trends   ─┘                                                  - KMeans
 - **KMeans clustering** on TF-IDF features of the keywords
 - **Linear Regression** to predict `Search Volume` from `CPC` and `Competition`
 
-## Push to GitHub
 
-```bash
-git init
-git add .
-git commit -m "Keyword research with Python"
-git branch -M main
-git remote add origin https://github.com/<your-username>/keyword-research-python.git
-git push -u origin main
-```
 
 ## License
 
