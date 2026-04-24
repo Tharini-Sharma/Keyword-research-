@@ -1,0 +1,52 @@
+Keyword,Search Volume,CPC,Competition,Category
+python tutorial,49500,168,0.45,Programming
+machine learning,40500,344,0.62,ML
+data science,33100,408,0.71,Data
+deep learning,27100,512,0.58,ML
+pandas dataframe,18100,144,0.32,Data
+numpy array,14800,96,0.28,Data
+scikit learn,12100,232,0.41,ML
+tensorflow,22200,296,0.55,ML
+keras model,9900,208,0.39,ML
+data visualization,18100,256,0.48,Data
+matplotlib chart,8100,112,0.30,Data
+seaborn heatmap,4400,88,0.22,Data
+kaggle competition,6600,152,0.35,Data
+jupyter notebook,33100,120,0.34,Programming
+google colab,90500,104,0.29,Programming
+linear regression,27100,192,0.46,ML
+logistic regression,18100,216,0.49,ML
+kmeans clustering,8100,176,0.41,ML
+tfidf vectorizer,3600,144,0.33,ML
+natural language processing,22200,384,0.59,ML
+computer vision,18100,416,0.61,ML
+neural network,40500,328,0.57,ML
+decision tree,18100,200,0.43,ML
+random forest,14800,224,0.45,ML
+xgboost,12100,272,0.52,ML
+feature engineering,8100,248,0.47,Data
+data cleaning,9900,208,0.42,Data
+exploratory data analysis,6600,232,0.44,Data
+seo keywords,12100,576,0.78,SEO
+keyword research tool,9900,752,0.85,SEO
+google trends,90500,184,0.51,SEO
+search volume,8100,448,0.69,SEO
+long tail keyword,5400,488,0.63,SEO
+low competition keyword,3600,624,0.71,SEO
+content marketing,22200,712,0.81,Marketing
+blog post ideas,8100,336,0.55,Marketing
+youtube seo,18100,464,0.66,SEO
+instagram seo,9900,392,0.58,SEO
+ecommerce seo,12100,896,0.88,SEO
+local seo,33100,864,0.86,SEO
+backlink analysis,8100,672,0.74,SEO
+domain authority,12100,504,0.65,SEO
+page speed,18100,312,0.49,SEO
+mobile first,8100,328,0.52,SEO
+schema markup,9900,416,0.57,SEO
+meta description,18100,304,0.51,SEO
+title tag optimization,4400,368,0.55,SEO
+google analytics,135000,536,0.69,Marketing
+search console,40500,192,0.42,SEO
+ahrefs alternative,2900,1000,0.91,SEO
+semrush alternative,3600,944,0.89,SEO
